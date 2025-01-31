@@ -14,7 +14,7 @@
 ## 🧰 **기술 스택**
 
 - **Backend:** Spring Boot, JPA, MySQL  
-- **Frontend:** Next.js, React, Tailwind CSS  
+- **Frontend:** Spring MVC, Thymeleaf, Bootstrap 
 - **Web Crawling:** Jsoup  
 - **APIs:** 지도 API, 기상 정보 API  
 - **Tools:** IntelliJ IDEA, Postman, Docker  
